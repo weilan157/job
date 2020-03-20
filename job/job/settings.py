@@ -106,7 +106,7 @@ DOWNLOADER_MIDDLEWARES = {
 # REDIS_HOST = "182.92.77.158"
 # REDIS_PORT = "6379"
 # REDIS_PARAMS = {
-#     'password': '@ROOTweilan157',  # 服务器的redis对应密码
+#     'password': '*********',  # 服务器的redis对应密码
 # }
 # 是否允许暂停
 # SCHEDULER_PERSIST = True
@@ -126,7 +126,7 @@ MONGODB_DBNANME = 'db_job'
 # 用户名
 MONGODB_USERNAME = 'root'
 # 密码
-MONGODB_PASSWORD = '@ROOTweilan157'
+MONGODB_PASSWORD = '*********'
 
 ##################################################
 # MYsql
@@ -140,7 +140,7 @@ MYSQL_DBNANME = 'db_job'
 # 用户名
 MYSQL_USERNAME = 'root'
 # 密码
-MYSQL_PASSWORD = '@ROOTweilan157'
+MYSQL_PASSWORD = '*********'
 #################################################
 #################################################
 
